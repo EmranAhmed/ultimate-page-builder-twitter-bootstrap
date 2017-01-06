@@ -1,0 +1,33 @@
+# Copyright (C) 2017 Ultimate Page Builder Twitter Bootstrap
+# This file is distributed under the same license as the Ultimate Page Builder Twitter Bootstrap package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Page Builder Twitter Bootstrap\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: https://github.com/EmranAhmed/ultimate-page-builder-twitter-bootstrap/issues\n"
+"Last-Translator: ThemeHippo <themehippo@gmail.com>\n"
+"Language-Team: ThemeHippo <themehippo@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ultimate-page-builder-twitter-bootstrap.php:71
+msgid "Please check PHP version requirement."
+msgstr ""
+
+#: ultimate-page-builder-twitter-bootstrap.php:73
+msgid "It's required to use latest version of PHP to use <strong>Ultimate Page Builder Twitter Bootstrap</strong>."
+msgstr ""
+
+#: ultimate-page-builder-twitter-bootstrap.php:83
+msgid "Ultimate Page Builder"
+msgstr ""
+
+#: ultimate-page-builder-twitter-bootstrap.php:85
+msgid "<strong>Ultimate Page Builder: Twitter Bootstrap</strong> is an add-on of "
+msgstr ""

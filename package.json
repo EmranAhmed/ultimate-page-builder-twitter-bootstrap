@@ -1,0 +1,16 @@
+{
+  "name": "ultimate-page-builder-twitter-bootstrap",
+  "description": "Ultimate Page Builder: Twitter Bootstrap",
+  "author": "Emran Ahmed <emran.bd.08@gmail.com>",
+  "private": true,
+  "scripts": {
+    "build": "gulp build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sort": "^2.0.0",
+    "gulp-wp-pot": "^2.0.1"
+  }
+}
