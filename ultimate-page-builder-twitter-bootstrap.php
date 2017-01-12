@@ -1,13 +1,13 @@
 <?php
     /**
      * Plugin Name: Ultimate Page Builder: Twitter Bootstrap
-     * Plugin URI: http://wordpress.org/plugins/ultimate-page-builder-twitter-bootstrap/
+     * Plugin URI: https://wordpress.org/plugins/ultimate-page-builder-twitter-bootstrap/
      * Description: Ultimate Page builder twitter bootstrap grid
      * Author: Emran Ahmed
      * Version: 1.0.0
      * Domain Path: /languages
      * Text Domain: ultimate-page-builder-twitter-bootstrap
-     * Author URI: http://themehippo.com/
+     * Author URI: https://themehippo.com/
      */
 
     defined( 'ABSPATH' ) or die( 'Keep Silent' );

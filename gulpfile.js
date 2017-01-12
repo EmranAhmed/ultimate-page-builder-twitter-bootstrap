@@ -17,7 +17,7 @@ const wpPotOptions = {
 };
 
 // translate
-gulp.task('translate', () => {
+gulp.task('translate', _ => {
     return gulp.src(`./**/*.php`)
         .pipe(sort())
         .pipe(wpPot(wpPotOptions))
